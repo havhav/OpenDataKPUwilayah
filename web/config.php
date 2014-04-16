@@ -9,7 +9,7 @@
 #---------------------------------------admin configuration
 #-----change this to your local installation folder
 	define("site","http://localhost");	
-	define("dirpath",$_SERVER["DOCUMENT_ROOT"]."/wilayahindonesia0.1");
+	define("dirpath",$_SERVER["DOCUMENT_ROOT"]."/OpenDataKPUwilayah");
     
 #---------------------------------------path configuration
 #-----mostly do not need to change this
