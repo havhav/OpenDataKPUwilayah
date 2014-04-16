@@ -5,7 +5,7 @@
 *	Email		: wibi@alumni.ui.ac.id
 *	Copyleft	: eGov Lab UI 
 *********************************************************************/
-require("config.php"); //error_reporting(E_ALL);
+require("config.php");
 #------------------------init
 //$ses->authenticate();
 $doc->pagetitle="Listbox";

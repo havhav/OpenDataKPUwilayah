@@ -1,9 +1,9 @@
 <?
 /*
-Author		: Wibisono Sastrodiwiryo
+Author		: muhammad hafidz
 Date		: 15 April 2014
 Copyleft	: eGov Lab UI
-Contact		: wibi@alumni.ui.ac.id
+Contact		: hafidz@cybergl.co.id
 Version		: 0.0.1
 */
 

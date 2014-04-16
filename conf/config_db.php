@@ -2,7 +2,7 @@
 /*
 Author		: Wibisono Sastrodiwiryo
 Date		: Thursday, November 20, 2008
-Copyright	: PT Cyber Gatra Loka (cybergl.co.id)
+Copyright	: eGov Lab UI
 Contact		: wibi@cybergl.co.id
 Version		: 0.1.0
 */

@@ -1,15 +1,15 @@
 <?
 /*
-Author		: Wibisono Sastrodiwiryo
-Date		: Wednesday, June 10, 2009
-Copyright	: GNU GPL 
-Contact		: support@cybergl.co.id
-Version		: 0.0.2 -> modifikasi dari class navigasi
+Author		: muhammad hafidz
+Date		: April 15, 2014
+Copyleft	: eGov Lab UI 
+Contact		: hafidz@cybergl.co.id
+Version		: 0.0.1
 */
 
 class wilayah extends db_connection {
 	function cat_listbox($parent=0) {
-		global $api,$tbl_wil,$PHP_SELF,$doc,$ses; 
+		global $api,$doc; 
 		list($db_link_id,$db_name, $db_server)=$this->connect_db();
 		$parent+=0;
         #-----------api wilayah
@@ -36,7 +36,7 @@ class wilayah extends db_connection {
 	}
     
     function wilayah_child($parent) {
-		global $api,$tbl_wil;
+		global $api;
 		$parent+=0;
 		list($db_link_id,$db_name, $db_server)=$this->connect_db();
 		#----------api wilayah
@@ -48,7 +48,7 @@ class wilayah extends db_connection {
 	}
     
     function wilayah_read($wilayah_id) {
-		global $api,$tbl_wil;
+		global $api;
 		$wilayah_id+=0;
 		list($db_link_id,$db_name, $db_server)=$this->connect_db();
 		#-------------API wilayah

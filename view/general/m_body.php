@@ -80,7 +80,7 @@
 		<div id="footer">
 			<div class="row">
 			<span class="left">
-				Research by <?echo $doc->lnk("http://mti.cs.ui.ac.id","University of Indonesia", "help");?>, implementation by <?echo $doc->lnk("http://www.cybergl.co.id","CyberGL");?>
+				Research by <?echo $doc->lnk("http://mti.cs.ui.ac.id","University of Indonesia", "help");?>, implementation by <?echo $doc->lnk("http://e-gov.cs.ui.ac.id/","eGov Lab");?>
 			</span>
 			<!--<span class="right">
 				Version: <?echo $doc->lnk(siturl."/index.php?cmd=changelog","0.3");?>
